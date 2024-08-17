@@ -6,8 +6,8 @@
 
 main: 
   
-  - title: "CV"
-    url: /files/paper1.pdf
+  # - title: "CV"
+  #   url: /files/paper1.pdf
     
   - title: "Contact"
     url: /contact/
