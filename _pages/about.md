@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## About Me
   👩🏻‍💻 I'm a graduate student at the University of Utah.
 
   🔬 I'm currently part of [LL4MA](https://robot-learning.cs.utah.edu/), instructed by [Prof. Tucker Hermans](https://robot-learning.cs.utah.edu/thermans).
+
+## 🚀 Interest
 
 ## 📚 Education
 
@@ -76,5 +76,3 @@ Machine Learning, Artificial Intelligence, Database Systems, Statistical Analysi
 
 #### Other Skills 
 R, Google Colab, Java, C, Power BI, Excel, Outlook, PowerPoint, Word
-
-## 🚀 Interest
