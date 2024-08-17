@@ -14,6 +14,23 @@ redirect_from:
 
 ## 📚 Education
 
+Master of Science in Computing, Data Management and Analytics
+University of Utah
+Aug 2024 — present
+Salt Lake City, UT
+
+Bachelor of Science, Data Science
+University of Utah
+Jan 2022 — Dec 2023
+Salt Lake City, UT
+
+Associate Degree of Science, Computer Science and Mathematics
+University of Durham
+Sep 2019 — Jun 2021
+Durham, UK
+
+##  💼 Experience
+
 ### Research Assistant for LL4MA lab Aug 2024 - present
 University of Utah
 
