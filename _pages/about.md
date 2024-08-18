@@ -143,12 +143,12 @@ td, th {
 </p> -->
 
 <span style="float:left;">
-<h3 style="font-weight: bold">Courses</h3>
-<p style="text-align:left;"> ✅ Machine Learning</p>
-<p style="text-align:left;"> ✅ Artificial Intelligence</p>
-<p style="text-align:left;"> ✅ Database Systems</p>
-<p style="text-align:left;"> ✅ Data Mining</p>
-<p style="text-align:left;"> ✅ Statistical Analysis R Programming</p>
+  <h3 style="font-weight: bold">Courses</h3>
+  <p style="text-align:left;"> ✅ Machine Learning</p>
+  <p style="text-align:left;"> ✅ Artificial Intelligence</p>
+  <p style="text-align:left;"> ✅ Database Systems</p>
+  <p style="text-align:left;"> ✅ Data Mining</p>
+  <p style="text-align:left;"> ✅ Statistical Analysis R Programming</p>
 </span>
 
 <!-- ### Other Skills  -->
@@ -163,10 +163,10 @@ td, th {
 |✅ Java |✅ C
 |no |no| -->
 <span style="float:right;">
-<h3 style="font-weight: bold">Other Skills</h3>
-<p style="text-align:left;"> ✅ R </p>
-<p style="text-align:left;"> ✅ Google Colab</p>
-<p style="text-align:left;"> ✅ Java </p>
-<p style="text-align:left;"> ✅ C </p>
-<p style="text-align:left;"> ✅ Microsoft Office Suite </p>
+  <h3 style="font-weight: bold">Other Skills</h3>
+  <p style="text-align:left;"> ✅ R </p>
+  <p style="text-align:left;"> ✅ Google Colab</p>
+  <p style="text-align:left;"> ✅ Java </p>
+  <p style="text-align:left;"> ✅ C </p>
+  <p style="text-align:left;"> ✅ Microsoft Office Suite </p>
 </span>
