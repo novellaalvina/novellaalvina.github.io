@@ -12,22 +12,56 @@ redirect_from:
 
 ## 🚀 Interest
 
+- Machine Learning
+- Artificial Intelligence
+- Natural Language Processing
+- Data Mining
+- Database
+
 ## 📚 Education
 
-Master of Science in Computing, Data Management and Analytics
-University of Utah
-Aug 2024 — present
-Salt Lake City, UT
+<p style="text-align:left;">
+  <h3> Master of Science in Computing, Data Management and Analytics
+    <span style="float:right;">
+      Aug 2024 — present
+    </span>
+  </h3>
+</p>
+<p style="text-align:left;">
+  University of Utah
+  <span style="float:right;">
+    Salt Lake City, UT 
+  </span>
+</p>
 
-Bachelor of Science, Data Science
-University of Utah
-Jan 2022 — Dec 2023
-Salt Lake City, UT
+<p style="text-align:left;">
+  <h3>
+  Bachelor of Science, Data Science
+  <span style="float:right;">
+  Jan 2022 — Dec 2023 
+  </span>
+  </h3>
+</p>
+<p style="text-align:left;">
+  University of Utah
+  <span style="float:right">
+    Salt Lake City, UT
+  </span>
+</p>
 
-Associate Degree of Science, Computer Science and Mathematics
-University of Durham
-Sep 2019 — Jun 2021
-Durham, UK
+<p style="text-align:left;">
+  <h3> Associate Degree of Science, Computer Science and Mathematics
+    <span style="float:right;">
+      Sep 2019 — Jun 2021
+    </span>
+  </h3>
+</p>
+<p style="text-align:left;">
+  University of Durham
+  <span style="float:right;">
+    Durham, UK
+  </span>
+</p>
 
 ##  💼 Experience
 
@@ -87,9 +121,25 @@ Tech: SQL, MySQL, C#, .NET Core
 Tech: Python, pandas, numpy, matplotlib, seaborn
 
 ## 🛠️ Skill
+<!-- ### Courses  -->
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+|<h3>**Courses** </h3>| |
+|---                 |---|
+|✅ Machine Learning    | ✅ Statistical Analysis R Programming|
+|✅ Artificial Intelligence|✅ Data Mining 
+|✅ Database Systems| 
 
-### Courses 
-Machine Learning, Artificial Intelligence, Database Systems, Statistical Analysis R Programming, Data Mining 
-
-### Other Skills 
-R, Google Colab, Java, C, Power BI, Excel, Outlook, PowerPoint, Word
+<!-- ### Other Skills  -->
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+|<h3>**Other Skills** </h3>| |
+|---                 |---|
+|✅ R    | ✅ Google Colab|
+|✅ Java |✅ C
