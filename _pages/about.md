@@ -174,4 +174,4 @@ td, th {
 <p style="text-align:left;"> ✅ Java </p>
 <p style="text-align:left;"> ✅ C </p>
 <p style="text-align:left;"> ✅ Microsoft Office Suite </p>
-</span></p>
+</p>
