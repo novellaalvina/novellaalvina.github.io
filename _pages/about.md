@@ -121,20 +121,38 @@ Tech: SQL, MySQL, C#, .NET Core
 Tech: Python, pandas, numpy, matplotlib, seaborn
 
 ## 🛠️ Skill
-<!-- ### Courses  -->
-<style>
+<!-- ### Courses -->
+<!-- <style>
 td, th {
    border: none!important;
 }
-</style>
-|<h3>**Courses** </h3>| |
-|---                 |---|
-|✅ Machine Learning    | ✅ Statistical Analysis R Programming|
-|✅ Artificial Intelligence|✅ Data Mining 
-|✅ Database Systems| 
+</style> -->
+<!-- |<h3>**Courses** </h3>| |
+|---                 |---| -->
+<!-- <p style="text-align:center;"> -->
+<!-- <div style="text-align: left"> -->
+  <!-- <span style="float:left;">
+  ✅ Machine Learning      -->
+  <!-- </div> -->
+  <!-- <div style="text-align: right"> -->
+  <!-- </span>
+  <span style="float:right;">
+  ✅ Statistical Analysis R Programming -->
+  <!-- </div> -->
+<!-- </span>
+</p> -->
+
+<span style="float:left;">
+</h2 style="font-weight: bold"> Courses</h2>
+<p style="text-align:left;"> ✅ Machine Learning</p>
+<p style="text-align:left;"> ✅ Artificial Intelligence</p>
+<p style="text-align:left;"> ✅ Database Systems</p>
+<p style="text-align:left;"> ✅ Data Mining</p>
+<p style="text-align:left;"> ✅ Statistical Analysis R Programming</p>
+</span>
 
 <!-- ### Other Skills  -->
-<style>
+<!-- <style>
 td, th {
    border: none!important;
 }
@@ -143,4 +161,12 @@ td, th {
 |---                 |---|
 |✅ R    | ✅ Google Colab|
 |✅ Java |✅ C
-|no |no|
+|no |no| -->
+<span style="float:right;">
+</h2 style="font-weight: bold"> Other Skills</h2>
+<p style="text-align:left;"> ✅ R </p>
+<p style="text-align:left;"> ✅ Google Colab
+<p style="text-align:left;"> ✅ Java </p>
+<p style="text-align:left;"> ✅ C </p>
+<p style="text-align:left;"> ✅ Microsoft Office Suite </p>
+</span>
