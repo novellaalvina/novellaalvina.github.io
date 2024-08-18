@@ -165,7 +165,7 @@ td, th {
 <span style="float:right;">
 <h3 style="font-weight: bold">Other Skills</h3>
 <p style="text-align:left;"> ✅ R </p>
-<p style="text-align:left;"> ✅ Google Colab
+<p style="text-align:left;"> ✅ Google Colab</p>
 <p style="text-align:left;"> ✅ Java </p>
 <p style="text-align:left;"> ✅ C </p>
 <p style="text-align:left;"> ✅ Microsoft Office Suite </p>
