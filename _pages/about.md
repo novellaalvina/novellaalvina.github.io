@@ -143,7 +143,7 @@ td, th {
 </p> -->
 
 <span style="float:left;">
-<h4 style="font-weight: bold"> Courses</h4>
+<h3 style="font-weight: bold">Courses</h3>
 <p style="text-align:left;"> ✅ Machine Learning</p>
 <p style="text-align:left;"> ✅ Artificial Intelligence</p>
 <p style="text-align:left;"> ✅ Database Systems</p>
@@ -163,7 +163,7 @@ td, th {
 |✅ Java |✅ C
 |no |no| -->
 <span style="float:right;">
-<h4 style="font-weight: bold">Other Skills</h4>
+<h3 style="font-weight: bold">Other Skills</h3>
 <p style="text-align:left;"> ✅ R </p>
 <p style="text-align:left;"> ✅ Google Colab
 <p style="text-align:left;"> ✅ Java </p>
