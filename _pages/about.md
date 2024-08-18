@@ -142,8 +142,8 @@ td, th {
 <!-- </span>
 </p> -->
 
+<p style="text-align:left;">
 <span style="float:left;">
-  T
   <h3 style="font-weight: bold">Courses</h3>
   <p style="text-align:left;"> ✅ Machine Learning</p>
   <p style="text-align:left;"> ✅ Artificial Intelligence</p>
@@ -163,12 +163,15 @@ td, th {
 |✅ R    | ✅ Google Colab|
 |✅ Java |✅ C
 |no |no| -->
-<span style="float:right;">
-  T
-  <h3 style="font-weight: bold">Other Skills</h3>
-  <p style="text-align:left;"> ✅ R </p>
-  <p style="text-align:left;"> ✅ Google Colab</p>
-  <p style="text-align:left;"> ✅ Java </p>
-  <p style="text-align:left;"> ✅ C </p>
-  <p style="text-align:left;"> ✅ Microsoft Office Suite </p>
-</span>
+
+<!-- <p style="text-align:right;"> -->
+<!-- <span style="float:right;"> -->
+  <h3 style="font-weight: bold">
+    Other Skills
+  </h3>
+<p style="text-align:left;"> ✅ R </p>
+<p style="text-align:left;"> ✅ Google Colab</p>
+<p style="text-align:left;"> ✅ Java </p>
+<p style="text-align:left;"> ✅ C </p>
+<p style="text-align:left;"> ✅ Microsoft Office Suite </p>
+</span></p>
