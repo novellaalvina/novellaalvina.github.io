@@ -112,15 +112,13 @@ increased system integration efficiency by 30% and reduced latency by 50 millise
 Tech: Python, Django, SQL, Docker, Git, Github, Gitlab, AWS, PostgreSQL, Postman, tensorFlow, nltk
 
 ### AI Pacman Agent Game, Developer Aug 2023 — Dec 2023
-- Developed and implemented an AI for a Pac-Man game using Python and Tkinter, integrating reinforcement learning (Q-learning)
-and advanced pathfinding algorithms (A* and BFS) to optimize gameplay, resulting in a 90% win rate over conventional systems.
+- Developed and implemented an AI for a Pac-Man game using Python and Tkinter, integrating reinforcement learning (Q-learning) and advanced pathfinding algorithms (A* and BFS) to optimize gameplay, resulting in a 90% win rate over conventional systems.
 - Conducted a comprehensive analysis of AI behavior under various game scenarios to fine-tune parameters and improve the decision matrix using MinMax, ExpectiMax, and Alpha-Beta Pruning methods, leading to a a 30% improvement in ghost evasion tactics and significantly increased game longevity and scoring through detailed behavioral analysis and parameter optimization.
 
 Tech: Python, Tkinter
 
 ### D3 Data Visualization, Developer Aug 2023 — Jan 2024
-- Optimized Python-based data pipeline with NLP preprocessing, increasing efficiency by 50%. Implemented diverging bar charts for
-sentiment analysis on artists’ songs over multiple years to perform exploratory data analysis
+- Optimized Python-based data pipeline with NLP preprocessing, increasing efficiency by 50%. Implemented diverging bar charts for sentiment analysis on artists’ songs over multiple years to perform exploratory data analysis
 - Constructed a spider chart for various song attributes, to analyze of song characteristics leading to 30% increase in decision clarity 
 
 Tech: Python, d3, Javascript, html, css, pandas, numpy, sci-kit learn, nltk, Github
