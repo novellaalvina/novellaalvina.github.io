@@ -15,8 +15,10 @@ redirect_from:
 - Machine Learning
 - Artificial Intelligence
 - Natural Language Processing
+- Deep Learning
 - Data Mining
 - Database
+- Computer Vision
 
 ## 📚 Education
 
@@ -63,14 +65,21 @@ redirect_from:
   </span>
 </p>
 
+## 📝 Featured Publications
+
+### Yixuan Huang, Tucker Hermans, \underline{Novella Alvina}, Mohanraj Devendran Shanthi. “Fail2Progress: Learning from Failures with Stein Variational Gradient Descent for Robot Manipulation Tasks”. Robotics: Science and Systems (RSS). 2025 [in preparation]
+- Co-author on a research paper investigating learning from failures based on an active-learning approach, posing failure-informed data generation in simulation as a variational inference problem
+- Helped in analysis of experimental findings to generate figures and video demonstration of the planning approach and failure reasoning methodologies to communicate results and theoretical concepts
+- Adapt and evaluate object detection and segmentation model in robotic tasks, contributing to the refinement of failure-handling strategies
+
 ##  💼 Experience
 
 ### Research Assistant for LL4MA lab Aug 2024 - present
 University of Utah
 
-- Collaborated on a project to integrate SplaTAM, a dense RGB-D SLAM system, with the STRETCH robot for improved localization and mapping
-- Assisted in the development of algorithms for real-time rendering and tracking optimization.
-- Collected and processed RGB-D data to enhance the robot’s navigation capabilities in complex environments.
+- Adapt and optimized motion planning, grasping algorithms, and data heuristic collection code for the STRETCH robot using Isaac Sim, ensuring seamless simulation functionality
+- Design a scalable, parallelized framework integrating motion planning and data collection, improving efficiency, streamlining workflows, and advancing collaborative robotics research.
+- Enhanced the localization and mapping capabilities of the STRETCH robot by integrating the SplaTAM SLAM system with advanced data fusion techniques, improving navigation accuracy by 10%, and optimizing 3D Gaussian splat mapping to reduce rendering time by 10% through efficient processing of RGB-D data from the RealSense camera
 
 ### Teaching Assistant for Machine Learning course Aug 2023 — Dec 2023
 University of Utah Salt Lake City, UT
@@ -85,6 +94,13 @@ Harapan Bangsa Foundation Tangerang, Indonesia
 - Deployed a monthly expense prediction model with a 5% margin of error, enhancing budget management and providing data presentation for decision-making in the finance department
 
 ## 💻 Project 
+
+### Deep Learning Based Chatbot, Developer Oct 2024 - Dec 2024
+- Developed a deep learning-powered chatbot using advanced NLP techniques (BERT, Rasa NLU, DiagloGPT) for personalized recipe recommendations, focusing on intent recognition and entity extraction to enhance user interaction
+- Evaluated chatbot performance using metrics such as Intent and Entity Recognition Accuracy, BLEU, and ROUGE for semantic
+similarity
+
+Tech: Python, BERT, Rasa NLU, DiagloGPT, NLTK
 
 ### Web App Development, Back-end Developer and Database Engineer Jan 2023 — Jan 2024
 
@@ -147,6 +163,8 @@ td, th {
   <h3 style="font-weight: bold">Courses</h3>
   <p style="text-align:left;"> ✅ Machine Learning</p>
   <p style="text-align:left;"> ✅ Artificial Intelligence</p>
+  <p style="text-align:left;"> ✅ Deep Learning</p>
+  <p style="text-align:left;"> ✅ Natural Language Processing</p>
   <p style="text-align:left;"> ✅ Database Systems</p>
   <p style="text-align:left;"> ✅ Data Mining</p>
   <p style="text-align:left;"> ✅ Statistical Analysis R Programming</p>
