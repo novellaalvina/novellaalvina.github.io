@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  👩🏻‍💻 I'm a graduate student at the University of Utah.
+👩🏻‍💻 I'm Novella — a recent M.S. Computing (AI) graduate from the University of Utah, passionate about building data-driven systems, from designing ML pipelines to engineering the full-stack applications that bring them to life.
 
-  🔬 I'm currently part of [LL4MA](https://robot-learning.cs.utah.edu/), instructed by [Prof. Tucker Hermans](https://robot-learning.cs.utah.edu/thermans).
+🔬 During my graduate studies, I worked as a research assistant at [LL4MA](https://robot-learning.cs.utah.edu/) under [Prof. Tucker Hermans](https://robot-learning.cs.utah.edu/thermans), where I built ETL pipelines for robotics applications and co-authored a paper accepted for CoRL 2025.
 
 ## 🚀 Interest
 
@@ -67,7 +67,7 @@ redirect_from:
 
 ## 📝 Featured Publications
 
-### Yixuan Huang, Tucker Hermans, \underline{Novella Alvina}, Mohanraj Devendran Shanthi. “Fail2Progress: Learning from Failures with Stein Variational Gradient Descent for Robot Manipulation Tasks”. Robotics: Science and Systems (RSS). 2025 [in preparation]
+### Yixuan Huang, Tucker Hermans, Novella Alvina, Mohanraj Devendran Shanthi. ["Fail2Progress: Learning from Failures with Stein Variational Gradient Descent for Robot Manipulation Tasks"](https://sites.google.com/view/fail2progress). Conference on Robot Learning (CoRL). 2025.
 - Co-author on a research paper investigating learning from failures based on an active-learning approach, posing failure-informed data generation in simulation as a variational inference problem
 - Helped in analysis of experimental findings to generate figures and video demonstration of the planning approach and failure reasoning methodologies to communicate results and theoretical concepts
 - Adapt and evaluate object detection and segmentation model in robotic tasks, contributing to the refinement of failure-handling strategies
@@ -77,9 +77,11 @@ redirect_from:
 ### Research Assistant for LL4MA lab Aug 2024 - present
 University of Utah
 
+- Designed and maintained ETL pipelines integrating vision and language model outputs into unified backend systems, implementing
+validation, error handling, and performance monitoring to ensure data integrity for downstream robotics applications.
+- Collaborated cross-functionally with colleagues and department heads to define requirements, document technical specifications,
+and co-author a paper accepted for CoRL 2025 publication
 - Adapt and optimized motion planning, grasping algorithms, and data heuristic collection code for the STRETCH robot using Isaac Sim, ensuring seamless simulation functionality
-- Design a scalable, parallelized framework integrating motion planning and data collection, improving efficiency, streamlining workflows, and advancing collaborative robotics research.
-- Enhanced the localization and mapping capabilities of the STRETCH robot by integrating the SplaTAM SLAM system with advanced data fusion techniques, improving navigation accuracy by 10%, and optimizing 3D Gaussian splat mapping to reduce rendering time by 10% through efficient processing of RGB-D data from the RealSense camera
 
 ### Teaching Assistant for Machine Learning course Aug 2023 — Dec 2023
 University of Utah Salt Lake City, UT
@@ -94,6 +96,38 @@ Harapan Bangsa Foundation Tangerang, Indonesia
 - Deployed a monthly expense prediction model with a 5% margin of error, enhancing budget management and providing data presentation for decision-making in the finance department
 
 ## 💻 Project 
+
+### RentRank, Developer Jan 2026 - present
+- Built a full-stack personalized rental housing scoring platform website (Python/FastAPI + React/TypeScript) that pulls live data from
+multiple sources, scores listings across 10+ factors, and ranks them by user-configurable weights, backed by PostgreSQL, a caching
+layer, and Alembic migrations, containerized with Docker, and deployed on AWS (EC2 for compute, RDS for PostgreSQL).
+- Designed a multi-stage ETL data pipeline that integrates three external APIs using concurrent threading with per-API rate limiting,
+handles missing values via bedroom/bathroom-tier imputation, flags outliers with percentile capping, and validates output with
+schema checks and automated quality reports.
+- Built a preference-weighted scoring model with min-max normalization, bedroom/bathroom-tier grouping, and flexible amenity matching (exact, category, and alias), outputting transparent factor-level score breakdowns with five-tier grading.
+- Developed a multi-step interactive UI with Google Maps integration for POI proximity mapping, census demographics data visualizations using ApexCharts, and user-tunable preference sliders that drive real-time scoring weights.
+
+Tech: Python, React, Typescript, FastAPI, SQL, PostgreSQL, SQLAlchemy, Alembic, Docker, AWS (EC2, RDS), Tailwind
+
+### Financial NER with Symbolic Consistency Layer, Developer Aug 2025 - Dec 2025Aug 2025 - Dec 2025
+- Fine-tuned a BERT-based NER model on financial documents to extract structured entities, with emphasis on reliability, interpretability, and error analysis for financial text analytics.
+- Designed rule-based validation (symbolic validation layer) to enforce domain constraints and detect inconsistent predictions, reduced constraint violations from 6% to 0% while maintaining 94% accuracy.
+
+Tech: Python, PyTorch, Huggingface
+
+### Comparative Analysis of Reinforcement Learning Models (Overcooked-AI), Developer Feb 2025 - May 2025Feb 2025 - May 2025
+- Implemented and evaluated multiple reinforcement learning models in a multi-agent simulation environment.
+- Designed experiments to compare learning stability, coordination behavior, and performance across models.
+- Analyzed training curves and reward trends to assess strengths and limitations of each approach.
+- Built tools to support systematic evaluation and comparison of model behavior.
+
+Tech: Python, PyTorch, TensorFlow, Pandas, NumPy
+
+### Research-Based Data Cleaning System (IHCS) -Data Processing & Standardization, Lead Developer Feb 2025 - May 2025Feb 2025 - May 2025
+- Built an ETL pipeline to clean and standardize noisy datasets emphasized data quality, consistency, and readiness for downstream analytics.
+- Improved data accuracy from 65% baseline (OpenRefine) to 80% through probabilistic consistency checking.
+
+Tech: Python, SQL, Apache Spark, Pandas, NumPy
 
 ### Deep Learning Based Chatbot, Developer Oct 2024 - Dec 2024
 - Developed a deep learning-powered chatbot using advanced NLP techniques (BERT, Rasa NLU, DiagloGPT) for personalized recipe recommendations, focusing on intent recognition and entity extraction to enhance user interaction
@@ -156,7 +190,7 @@ td, th {
 <!-- </span>
 </p> -->
 
-<p style="text-align:left;">
+<!-- <p style="text-align:left;">
 <span style="float:left;">
   <h3 style="font-weight: bold">Courses</h3>
   <p style="text-align:left;"> ✅ Machine Learning</p>
@@ -166,7 +200,7 @@ td, th {
   <p style="text-align:left;"> ✅ Database Systems</p>
   <p style="text-align:left;"> ✅ Data Mining</p>
   <p style="text-align:left;"> ✅ Statistical Analysis R Programming</p>
-</span>
+</span> -->
 
 <!-- ### Other Skills  -->
 <!-- <style>
@@ -182,7 +216,7 @@ td, th {
 
 <!-- <p style="text-align:right;"> -->
 <!-- <span style="float:right;"> -->
-  <h3 style="font-weight: bold">
+  <!-- <h3 style="font-weight: bold">
     Other Skills
   </h3>
 <p style="text-align:left;"> ✅ R </p>
@@ -190,4 +224,17 @@ td, th {
 <p style="text-align:left;"> ✅ Java </p>
 <p style="text-align:left;"> ✅ C </p>
 <p style="text-align:left;"> ✅ Microsoft Office Suite </p>
-</p>
+</p> -->
+
+<div>
+  <ul>
+    <li>Languages: Python, SQL, JavaScript, TypeScript, R</li>
+    <li>ML/AI: PyTorch, TensorFlow, scikit-learn, NLP</li>
+    <li>Data Engineering: Apache Spark, ETL, Database Design</li>
+    <li>Backend: Django, FastAPI, PostgreSQL, REST APIs  </li>
+    <li>Frontend: React, Tailwind CSS</li>
+    <li>Cloud/DevOps: AWS, Docker, Git </li>
+    <li>Tools: Tableau, Linux, Postman</li>
+  </ul>
+</div>
+
