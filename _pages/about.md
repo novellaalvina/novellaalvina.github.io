@@ -12,20 +12,21 @@ redirect_from:
 
 ## 🚀 Interest
 
-- Machine Learning
+- Data Science & Analytics
+- Data Engineering
+- Software Development
 - Artificial Intelligence
+- Machine Learning & Deep Learning
 - Natural Language Processing
-- Deep Learning
-- Data Mining
-- Database
 - Computer Vision
+- Data Mining & Database Systems
 
 ## 📚 Education
 
 <p style="text-align:left;">
-  <h3> Master of Science in Computing, Data Management and Analytics
+  <h3> Master of Science in Computing, Artificial Intelligence
     <span style="float:right;">
-      Aug 2024 — present
+      Aug 2024 — Dec 2025
     </span>
   </h3>
 </p>
